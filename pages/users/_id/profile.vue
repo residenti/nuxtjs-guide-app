@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>_slug/index</h2>
+    <h2>users/_id/profile</h2>
     <nuxt-link to="/">Home page</nuxt-link>
   </div>
 </template>
